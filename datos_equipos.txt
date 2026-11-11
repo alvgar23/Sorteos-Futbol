@@ -1,0 +1,9 @@
+B. Mönchengladbach,Germany,2
+Liverpool,England,1
+Wolfsburgo,Germany,2
+Real Madrid,Spain,1
+Atlético de Madrid,Spain,2
+Villarreal,Spain,2
+Chelsea,England,1
+Barcelona,Spain,1
+Red Bull Salzburgo,Austria,2
